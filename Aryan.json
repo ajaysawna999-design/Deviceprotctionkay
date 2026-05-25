@@ -13,3 +13,16 @@
     }
 ]
 [
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2030",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8d7b297f357b6a37",
+        "key": "ajay9",
+        "expirydate": "15-06-2030",
+        "Allowoffline": false
+    }
+]
