@@ -11,16 +11,4 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-    {
-        "device_id": "8d7b297f357b6a37",
-        "key": "ajay99",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "9a52e85b5c8f0f13",
-        "key": "ajay9",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
-    }
 ]
